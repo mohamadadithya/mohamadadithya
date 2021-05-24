@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamadadithya
 - 👀 I’m interested in Rock music and web programming
-- 🌱 I’m currently learning Laravel framework
+- 🌱 I’m currently learning Node JS & Express
 - 📫 You can reach me on https://m-adithya.my.id
 
 <!---
