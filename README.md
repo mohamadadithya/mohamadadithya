@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a passionate Web Developer from Indonesia 🇲🇨.
+#### I'm a passionate Front-End Developer from Indonesia 🇲🇨.
 
 ##### BIO
 
