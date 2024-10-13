@@ -1,6 +1,6 @@
-Hi there, I'm Mohamad Adithya 👋
+# Hi there, I'm Mohamad Adithya 👋
 
-Frontend Developer | Crafting Responsive, User-Centric Web Interfaces
+## Frontend Developer | Crafting Responsive, User-Centric Web Interfaces
 
 Welcome to my GitHub! I’m a Frontend Developer with over 5 years of experience creating clean, efficient, and engaging web solutions. My passion lies in blending creativity with functionality to develop seamless digital experiences that are both intuitive and visually appealing.
 
